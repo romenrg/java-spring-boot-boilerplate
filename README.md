@@ -1,4 +1,4 @@
-# helloworld-spring
+# Java Spring Boot Boilerplate
 
 Basic helloworld project with Spring.
 
